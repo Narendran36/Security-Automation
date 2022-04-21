@@ -2,7 +2,7 @@
 
 import os
 
-# Created by Narendran S Nair for testing subdomain takeover using findomain, subbrute and subzy
+# Created by Narendran S Nair for testing subdomain takeover using findomain, subbrute and subzy; give execute permission (chmod +x) to this file and run: ./sdto.py
 
 print('\n###########################')
 print('Test for Subdomain Takeover')
